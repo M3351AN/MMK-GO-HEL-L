@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"time ptr"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GBC_2D_action_mo.exe"+0DDAB708</Address>
+      <Offsets>
+        <Offset>2A8</Offset>
+        <Offset>2F8</Offset>
+        <Offset>1F0</Offset>
+        <Offset>260</Offset>
+        <Offset>108</Offset>
+        <Offset>3B0</Offset>
+        <Offset>150</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"score ptr"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GBC_2D_action_mo.exe"+0DBE91F0</Address>
+      <Offsets>
+        <Offset>464</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"get ptr"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GBC_2D_action_mo.exe"+0DBE91F0</Address>
+      <Offsets>
+        <Offset>454</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"Z KAMEAR"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>GBC_2D_action_mo.exe+D89F554</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
